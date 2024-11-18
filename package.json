@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ynocmocmoc/mesi_docco#readme",
   "dependencies": {
-    "firebase": "^6.5.0"
+    "firebase": "^10.9.0"
   }
 }
